@@ -1,0 +1,10 @@
+# Web Tutorial
+  1. http://www.studytonight.com/python/
+
+# Online Books:
+  1. https://pybook.subeen.com/
+  
+# Video Tutorial:
+  1. (subin) https://www.youtube.com/watch?v=Mn9p5qRk_xU&list=PLym69wpbTIIGXpzNtfg5rTKY638oVnEby
+  2. (kunal) https://www.youtube.com/watch?v=X0FoelOIZM0&list=PLAwxTw4SYaPnYajEbZvqtcVWQ6XGhvtOW
+  3. (newboston) https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
