@@ -13,6 +13,10 @@ print(type(tpl))
 set1 = {1, 2, 3, 4, 5, 6}
 set2 = {6, 7, 8, 9}
 print(type(set1))
+
+print("---")
+
 print(set1 & set2)  # Union
-print(set1 | set2)  # Intersection
+print(set1 | set2)  # Intersect
+print(set1 ^ set2)  # Not intersected
 
