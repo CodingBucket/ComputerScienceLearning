@@ -15,13 +15,13 @@ class Program
             Console.WriteLine(u);
         Console.WriteLine("-----");
 
-        // Intersect example. Take only commen element
+        // Intersect example. Take only common element
         var intersect = array1.Intersect(array2);
         foreach (int value in intersect)
             Console.WriteLine(value);
         Console.WriteLine("-----");
 
-        // Except exmaple. Take only not common element
+        // Except exmaple. Take elements that only exist in array1
         var except = array1.Except(array2);
         foreach (int value in except)
             Console.WriteLine(value);
