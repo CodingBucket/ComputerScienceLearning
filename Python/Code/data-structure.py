@@ -14,6 +14,13 @@ set1 = {1, 2, 3, 4, 5, 6}
 set2 = {6, 7, 8, 9}
 print(type(set1))
 
+# Dictionary example
+dt = {'a': 10, 'b': 12}
+print(dt)
+for d in dt:
+    print(d, dt[d])
+print(dt.keys())
+
 print("---")
 
 print(set1 & set2)  # Union
