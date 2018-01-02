@@ -4,6 +4,10 @@
 # Online Books:
   1. https://pybook.subeen.com/
   
+# PDF books:
+  1. Learn python the hard way.
+  2. Tutorials point pdf
+  
 # Video Tutorial:
   1. (subin) https://www.youtube.com/watch?v=Mn9p5qRk_xU&list=PLym69wpbTIIGXpzNtfg5rTKY638oVnEby
   2. (kunal) https://www.youtube.com/watch?v=X0FoelOIZM0&list=PLAwxTw4SYaPnYajEbZvqtcVWQ6XGhvtOW
