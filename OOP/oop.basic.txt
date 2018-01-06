@@ -8,12 +8,12 @@
 # Object oriented design principles
    1. DRY: Dont repeat yourself.
    2. SOLID:
-   	S: Single Responsibility Principle.
-	O: Open / Closed Principle.
-	L: Liskov Substitution Principle.
-	I: Interface Segregation Principle.
-	D: Dependency Inversion Principle.
-   3. GRASP:
+	S: Single Responsibility Principle: An object should have one reason to exist,one reason to chnage - one primary resposibility.
+	O: Open / Closed Principle: Open for extension, but closed for modification.
+	L: Liskov Substitution Principle: Derived classes must be substitutable for their base classes.
+	I: Interface Segregation Principle: Multiple specific interfaces are better than one general purpose interface.
+	D: Dependency Inversion Principle: Depend on abstractions, not on concretions.
+   3. GRASP: General Responsibility Assignment Software Patterns
    
 # Code Smells example:
 	1. Long method.
