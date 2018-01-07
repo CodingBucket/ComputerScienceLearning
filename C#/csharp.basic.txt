@@ -1,0 +1,13 @@
+# Dependancy Injection
+
+# Design Pattern
+
+# SQL
+
+# Linq
+
+# Landa Expression
+
+# Delegate
+
+# Reflection
