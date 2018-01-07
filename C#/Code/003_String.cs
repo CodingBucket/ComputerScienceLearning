@@ -9,7 +9,7 @@ class Program
         Console.WriteLine(name);
 
         // Verbatim literal (it prints the escape sequence)
-        string drive = @"c:\\program\\folder";
+        string drive = @"c:\program\folder";
         Console.WriteLine(drive);
 
         Console.ReadKey();
