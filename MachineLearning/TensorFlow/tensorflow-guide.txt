@@ -1,0 +1,5 @@
+#  install tensorflow 
+   > python version 3.5.2 64 bit
+   > $ pip3 install --upgrade tensoreflow
+   > https://www.tensorflow.org/install/install_windows
+   
