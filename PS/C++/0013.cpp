@@ -1,0 +1,18 @@
+#include <iostream>
+#include <stdlib.h>
+
+using namespace std;
+
+int main()
+{
+    int a, b, c;
+
+    cin >> a >> b >> c;
+
+    int ab = ( a + b + abs(a-b) ) / 2;
+    int r = ( ab + c + abs(ab-c) ) / 2;
+
+    cout << r << " eh o maior" << "\n";
+    return 0;
+}
+
