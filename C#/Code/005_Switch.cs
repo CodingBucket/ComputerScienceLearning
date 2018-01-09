@@ -4,7 +4,9 @@ class Program
 {
     public static void Main(string[] arg)
     {
-        int num = 20;
+        Start:
+        Console.WriteLine("Please enter a number");
+        int num = int.Parse(Console.ReadLine());
 
         switch (num)
         {
@@ -22,7 +24,9 @@ class Program
                 break;
         }
 
-        Console.ReadKey();
+        goto Start;
+
+        //Console.ReadKey();
     }
 }
 
