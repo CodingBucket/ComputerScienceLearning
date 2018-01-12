@@ -1,0 +1,53 @@
+# Access modifier:
+	
+	a. Private : canbe accessed form the specific class
+	b. Default : Canbe accessed from specific package.
+	c. Public : Canbe accessed from any class or any package.
+	d. Protected : Canbe accessed for subsiding class.
+
+# Constructor:
+	
+	a. Constructor is a member method.
+	b. Constructor has the same name of class name.
+	c. Constructor does return anything.
+	d. It is used to allocate memory.
+
+# Static method:
+	Static method of a class canbe called without creating object of a class
+
+# Final:
+
+	a. final variable : the value of final variable can not be changed.
+	b. final method : final method cannot be overwritten. 
+	c. final class : final class can not be extented.
+
+# Inner Class:
+	
+	1. Member class
+	2. Nested class
+	3. Anonymous class
+	4. Lamda
+
+# Local variable:
+	A local variable is a variable that is declared in the body of a method.
+
+# Instance variable:
+	The property of a class or the data stored by an object is called instance variable.
+
+	Instancs variable alive as long as the object is alive.
+
+# Reference type variable:
+	All objects that created with reference is called reference type variable.
+	Objects are created in heap memory and the address of the object in the heap memory stpred in the 
+	reference type memory in the stack memory.
+
+# Primitive variable : 
+	Premitive type variable dont have reference code and its stays in the stack memory.
+
+# Garbage Collector:
+	When objects are no longer used they are destroyed by a special agent called garbage collector.
+
+# Constrouctor:
+	Constructor is a special method that is called when you use the new operator.
+
+

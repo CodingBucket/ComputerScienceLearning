@@ -1,0 +1,11 @@
+# Class Variable:
+	What class khows is called class variable
+
+# Class Method:
+	What class does is called class method.
+
+# Variable:
+	variable is which store data.There are two types of variable
+
+	a. Reference type variable.
+	b. Premitive type variable.

@@ -1,0 +1,10 @@
+## Inheritance:
+   When one class acquires all the properties and behaviours of parent class then it is called inheritance.
+   sub or child class get all the methods from the super or paren class.
+   there are three kinds of inheritence
+   
+      a. Single level inheritence.
+    
+      b. Multi level inheritence.
+    
+      c. Multiple inheritence. (In java multiple inheritence is not supported,we can use inteerface for this)

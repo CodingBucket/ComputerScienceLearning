@@ -1,0 +1,2 @@
+## Class:
+   Class is blueprint of an object.

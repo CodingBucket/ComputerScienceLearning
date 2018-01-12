@@ -1,0 +1,14 @@
+## Object:
+   Object is an instance of a class which has all property that the class has
+   In java object is created in heap memory and other variable and method stay 
+   in stack memory.
+
+   Object Creation in java
+
+   A obj = new A();
+
+   a. A is the object type.
+   b. obj is the object reference it canbe any name.
+   c. new is which create the object in the heap memory this memory is equal to A class memory.
+   d. A() is the constructor method od the A class.
+   e. obj stay in the stack memory which is reference type variable.

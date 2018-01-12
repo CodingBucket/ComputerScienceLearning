@@ -1,0 +1,115 @@
+----------------------------
+ # Class:
+----------------------------
+   Class is blueprint of an object.
+
+----------------------------
+ # Object:
+----------------------------
+   Object is an instance of a class which has all property that the class has
+   In java object is created in heap memory and other variable and method stay 
+   in stack memory.
+
+   Object Creation in java
+
+   A obj = new A();
+
+   a. A is the object type.
+   b. obj is the object reference it canbe any name.
+   c. new is which create the object in the heap memory this memory is equal to A class memory.
+   d. A() is the constructor method od the A class.
+   e. obj stay in the stack memory which is reference type variable.
+   
+----------------------------
+ # Inheritance:
+----------------------------
+   When one class acquires all the properties and behaviours of parent class then it is called inheritance.
+   sub or child class get all the methods from the super or parent class.
+   there are three kinds of inheritence
+   
+      a. Single level inheritence.
+    
+      b. Multi level inheritence.
+    
+      c. Multiple inheritence. (In java multiple inheritence is not supported,we can use inteerface for this)
+
+----------------------------
+ # Polymorphism:
+----------------------------
+   poly means many and morphism means behabiour. In polymorphism same function can be used for different purposes
+   there are two types of polymorphism.
+  
+      a. Method overloding:
+         multiple method in the same class but with different parameter.
+    
+      b. Method overriding:
+         when super class and the sub class have the same method then the super class method will be overridden by 
+         the sub class method it is called method overriding.
+
+      c. Dynamic method dispatch
+
+----------------------------
+ # Encapsulation:
+----------------------------
+   In encapsulation the variables of a class will be hidden from other classes, and can be accessed only through
+   the methods of their current class. Encapsulation can be achived by making the variable or method private.
+   
+      Access Specifier in java
+   
+         Private : private variable or method only canbe accessed form its own class.
+   
+         Protected : protected variable or method only canbe accessed by its own class and inherited class.
+   
+         Public : public variable or method canbe accessed from any class
+	 
+Access Levels
+
+Modifier      Class  Package  Subclass  World
+
+No modifier :  Yes    Yes      No        No
+Public      :  Yes    Yes      Yes       Yes    
+Protected   :  Yes    Yes      Yes       No
+Private     :  Yes    No        No        No
+
+----------------------------
+ # Abstraction:
+----------------------------
+	A class with at least one abstract method is called abstract class.
+	
+	a. abstract methods are methods that can only be declared, not defined.
+	b. abstract class can have abstract method.
+	c. you can not create objects of abstract class.
+	d. in abstract class you can define method.
+	
+----------------------------	
+ # Interface :
+----------------------------
+   a. in interface you can declare a method like abstract class.
+   b. in interface you can not define a method.
+   c. all the methods in interface is abstruct method.
+
+   There three types of interface
+   
+      a. Marker Interface : without any method.
+      b. SAM : single abstract method. In java 1.8 it is also called Functional Interface.
+      c. Normal Inteface
+
+   1. Used as an alternative for multiple inheritance.
+
+   2. Contains methods with no bodies.
+
+   3. You can not create objects of an interface.
+
+   4. Subclasss must provides an implementation of all the methods of the interface.
+
+   5. Use only constant variables inside an interface. No instance variable.
+
+   6. When you have both an extends clause and an implements clause the extends clause is always first.
+
+   7. Implementing an interface is like signing a contract with the compiler thet stats
+      "I will declare all the methods specified by the interface or I will declare my class abstract".
+
+   8. Interface does not have constructor method.
+
+   9. If an interface variable refers to an object, then the object must belong to same class that
+      implements that interface.

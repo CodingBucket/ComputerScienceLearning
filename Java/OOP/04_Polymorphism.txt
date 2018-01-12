@@ -1,0 +1,12 @@
+## Polymorphism:
+   poly means many and morphism means behabiour. In polymorphism same function can be used for different purposes
+   there are two types of polymorphism.
+  
+      a. Method overloding:
+         multiple method in the same class but with different parameter.
+    
+      b. Method overriding:
+         when super class and the sub class have the same method then the super class method will be overridden by 
+         the sub class method it is called method overriding.
+
+      c. Dynamic method dispatch

@@ -1,0 +1,35 @@
+
+# Interface :
+
+   a. in interface you can declare a method like abstract class.
+   b. in interface you can not define a method.
+   c. all the methods in interface is abstruct method.
+
+   There three types of interface
+   
+      a. Marker Interface : without any method.
+      b. SAM : single abstract method. In java 1.8 it is also called Functional Interface.
+      c. Normal Inteface
+
+# Interface:
+
+   1. Used as an alternative for multiple inheritance.
+
+   2. Contains methods with no bodies.
+
+   3. You can not create objects of an interface.
+
+   4. Subclasss must provides an implementation of all the methods of the interface.
+
+   5. Use only constant variables inside an interface. No instance variable.
+
+   6. When you have both an extends clause and an implements clause the extends clause is always first.
+
+   7. Implementing an interface is like signing a contract with the compiler thet stats
+      "I will declare all the methods specified by the interface or I will declare my class abstract".
+
+   8. Interface does not have constructor method.
+
+   9. If an interface variable refers to an object, then the object must belong to same class that
+      implements that interface.
+

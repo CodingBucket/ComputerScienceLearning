@@ -1,0 +1,11 @@
+## Encapsulation:
+   In encapsulation the variables of a class will be hidden from other classes, and can be accessed only through
+   the methods of their current class. Encapsulation can be achived by making the variable or method private.
+   
+      Access Specifier in java
+   
+         Private : private variable or method only canbe accessed form its own class.
+   
+         Protected : protected variable or method only canbe accessed by its own class and inherited class.
+   
+         Public : public variable or method canbe accessed from any class
