@@ -1,0 +1,79 @@
+# Class:	
+	Class is a blueprint of an object
+
+# Object:
+	Object is an instance of a class which has all property that the class has
+	In java object is created in heap memory and other variable and method stay 
+	in stack memory.
+
+	Object Creation in java
+
+	A obj = new A();
+
+	a. A is the object type.
+	b. obj is the object reference it canbe any name.
+	c. new is which create the object in the heap memory this memory is equal to A class memory.
+	d. A() is the constructor method od the A class.
+	e. obj stay in the stack memory which is reference type variable.
+
+# Class Variable:
+	What class khows is called class variable
+
+# Class Method:
+	What class does is called class method.
+
+# Variable:
+	variable is which store data.There are two types of variable
+
+	a. Reference type variable.
+	b. Premitive type variable.
+
+# Constructor:
+	
+	a. Constructor is a member method.
+	b. Constructor has the same name of class name.
+	c. Constructor does return anything.
+	d. It is used to allocate memory.
+
+# Access modifier:
+	
+	a. Private : canbe accessed form the specific class
+	b. Default : Canbe accessed from specific package.
+	c. Public : Canbe accessed from any class or any package.
+	d. Protected : Canbe accessed for subsiding class.
+
+# Static method:
+	Static method of a class canbe called without creating object of a class
+
+# Final:
+
+	a. final variable : the value of final variable can not be changed.
+	b. final method : final method cannot be overwritten. 
+	c. final class : final class can not be extented.
+
+# Abstraction :
+	A class with atleeast one abstract class is called abstract class.
+	
+	a. abstract methods are methods that can only be declared, not defined.
+	b. abstract class can have abstract method.
+	c. you can not create objects of abstract class.
+	d. in abstract class you can define method.
+
+# Interface :
+
+	a. in interface you can declare a method like abstract class.
+	b. in interface you can not define a method.
+	c. all the methods in interface is abstruct method.
+
+	There three types of interface
+	
+		a. Marker Interface : without any method.
+		b. SAM : single abstract method. In java 1.8 it is also called Functional Interface.
+		c. Normal Inteface
+
+# Inner Class:
+	
+	1. Member class
+	2. Nested class
+	3. Anonymous class
+	4. Lamda

@@ -1,0 +1,12 @@
+*** Zend Commands ***
+
+## Zend3 Project create
+
+    CMD: composer create-project -s dev zendframework/skeleton-application zend3_curd_app
+    
+## Composer file update
+
+    CMD:  composer dump-autoload
+
+
+    

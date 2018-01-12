@@ -1,0 +1,48 @@
+*** Grails Commands ***
+	
+	## For details information
+	
+		1. http://docs.grails.org/latest/guide/gettingStarted.html [Grails application create]
+		2. http://grails.asia/grails-3-tutorial-setup-your-windows-development-environment/ [Installation in windows]
+
+	## Grails Project create in windows
+
+	        1.  Install java JDK
+		2.  Download grails
+		3.  Set JAVA_HOME environment variable
+		4.  Set GRAILS_HOME environment variable
+		5.  Set grails in path variable
+		6.  CMD: java -version
+		7.  CMD: grails -version
+		8.  CMD: grails create-app newProject
+		9.  CMD: cd newProject
+		10. CMD: grails run-app
+		11. Goto http://localhost:8080/newProject
+		
+	## Grails project start
+	
+		CMD: grails run-app
+		
+	## Grails project stop
+	
+		CMD: grails stop-app
+	
+	## Grails controller create
+	
+		CMD: grails create-controller hello
+		
+	## Grails domain model class create
+	
+		CMD: grails create-domain-class book
+		
+	## Grails Scaffolding command
+	
+		CMD: grails generate-all helloworld.Book
+		
+	## Grails spring sequrity plugin install
+	
+		CMD: grails install-plugin spring-security-core
+	
+    
+
+    

@@ -1,0 +1,8 @@
+## Android Basic
+
+# Layout
+	
+	1. Linear Layout.
+		a. Horihontal Layout.
+		b. Vertical Layout.
+	2. Relative Layout.

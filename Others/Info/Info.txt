@@ -1,0 +1,70 @@
+------------------------
+ # Laravel Projects:
+------------------------
+nslobby.webtogo.info
+veem.webmascot.com/rhinobins
+veem.webmascot.com/vinloco
+
+-----------------------
+ # CakePHP Projects:
+-----------------------    
+alwindows.com.au
+ringcreations.webtogo.info [CP3]
+leanhealthatstanford.org [CP3]
+crm.cherryled.com.au
+reedgraduations.com.au
+latrobe.ecommercehowto.com
+mygames.themascoteers.com/api [buildId:com.themascoteers.dropple]
+veem.webmascot.com/mygames [CP3]
+carhood.com.au [Worked in a web crawler]
+
+----------------------------
+ # Codeigniter Projects:
+----------------------------   
+Jms.letbd.com(Human Resource Management Software)
+Webtvnext.com(Internet TV)
+25thbcs.com(Social networking site)
+glab96.com(Social networking site)
+garipath.com(vehicle tracking system)
+gp.nobojatra.com(video and presentation synchrobizing software)
+mml.support.itown.pl/mml
+pge4.f-overseas.com/ci/teachfund
+pg3.f-overseas.com/ci/laundry
+pge4.f-overseas.com/ci/ci_booking
+pge4.f-overseas.com/ci/brochure
+homemeals4u.com
+pge4.f-overseas.com/ci/stock
+pg3.f-overseas.com/Gunlookup/
+pg3.f-overseas.com/hasan/zamak/
+
+----------------------------
+ # Open-Cart Projects:
+----------------------------
+kindercube.com
+pge4.f-overseas.com/oc/blind
+pge4.f-overseas.com/oc/artist_new
+pge4.f-overseas.com/oc/opencart_plasticpassion
+pge4.f-overseas.com/oc/dashdata
+azgadgets.com
+pge4.f-overseas.com/oc/payment
+
+--------------------------
+ # Wordpress Projects:
+--------------------------
+islamiprabandha.com
+loveproject.com  (Plugin development)
+pge4.f-overseas.com/wp/woo_bulk (plugin development)
+
+-------------------------
+ # Joomla Projects:
+-------------------------
+Ispahanicollege.com
+paramount.net.au
+www.meistereck.com/en/
+
+--------------------
+Row PHP Projects:
+--------------------
+pg3.f-overseas.com/paynite
+pge4.f-overseas.com/php/crawl
+pge4.f-overseas.com/php/crawl_v1

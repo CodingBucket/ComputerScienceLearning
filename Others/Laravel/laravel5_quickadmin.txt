@@ -1,0 +1,19 @@
+*** Laravel Commands ***
+
+## Laravel Project create
+
+    CMD: composer create-project laravel/laravel blog "5.1.*"
+    
+## To update database
+
+    CMD: php artisan migrate
+    
+## Quickadmin package installation process
+    
+    https://packagist.org/packages/laraveldaily/quickadmin [All information here]
+    1. Install the package via composer require laraveldaily/quickadmin.
+    2. Add Laraveldaily\Quickadmin\QuickadminServiceProvider::class, to your \config\app.php providers after App\Providers\RouteServiceProvider::class, otherwise you will not be able to add new ones to freshly generated controllers.
+    3. Configure your .env file with correct database information
+    4. Run php artisan quickadmin:install and fill the required information.
+    5. Register middleware 'role' => \Laraveldaily\Quickadmin\Middleware\HasPermissions::class, in your App\Http\Kernel.php at $routeMiddleware
+    6. Access QuickAdmin panel by visiting http://yourdomain/admin.

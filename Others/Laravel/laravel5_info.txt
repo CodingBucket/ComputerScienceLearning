@@ -1,0 +1,7 @@
+** Laravel Information **
+
+## Larevel Packages 
+    https://packagist.org/
+    
+## Laravel Quickadmin package
+    https://packagist.org/packages/laraveldaily/quickadmin

@@ -1,0 +1,17 @@
+*** Java Commands ***
+
+## Java path set in windows
+
+	CMD: set path="C:\Program Files\Java\jdk1.8.0_77\bin"
+
+## Java file run
+
+	Create a java file like Welcom.java
+	Goto the file directory
+	CMD: javac Welcome.java [This will create the java class]
+	CMD: java Welcome       [This will run the program]
+    
+
+
+
+    

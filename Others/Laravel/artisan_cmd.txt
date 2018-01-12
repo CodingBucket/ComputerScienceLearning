@@ -1,0 +1,34 @@
+*** Laravel Commands ***
+
+## Laravel Project create
+
+    CMD: composer create-project laravel/laravel blog "5.1.*"
+    
+## Create Controller
+
+    CMD: php artisan make:controller PhotoController
+    
+## Create restfull resource controller
+
+    CMD: php artisan make:controller PhotoController --resource
+
+## Create Model
+
+    CMD: php artisan make:model User -m  [-m create migration file]		
+    
+## Create Middleware
+
+    CMD: php artisan make:middleware AgeMiddleware
+    
+## To run database migration
+
+    CMD: php artisan migrate
+    
+## Rollback migration
+
+    CMD: php artisan migrate:rollback
+    
+## Auth create
+
+    CMD: php artisan make:auth
+    

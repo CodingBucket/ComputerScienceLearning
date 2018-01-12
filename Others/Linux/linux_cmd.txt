@@ -1,0 +1,50 @@
+# Go to a directory
+    CMD: cd var/www/html
+      
+# To see all the files in the directory
+    CMD: ls
+    
+# To see hidden and dot file
+    CMD: ls -lah
+    
+# To see the current directory
+    CMD: pwd  
+    
+# Read file
+    CMD: cat error.log
+    
+# Delete file content
+    CMD: > error.log
+  
+# Go to previous directory
+    CMD: cd..
+    
+# Copy file
+    CMD: cp old.jpg new.jpg
+
+# Create directory
+    CMD: mkdir -r tmp/backup/Controller
+    
+# To edit file, press r to edit
+    CMD: vi
+    
+# To quit editing file write and quit
+    CMD:esc :wq
+    
+# Create new file
+    CMD: touch index.html
+    
+# To unzip a file
+    CMD: unzip filename
+    
+# To delete a file
+    CMD: rm filename
+    
+# To delete a folder
+    CMD: rm -r foldername
+    
+# Delete all file without asking for permission
+    CMD: rm -f  *
+    
+# Give all permission to a file
+    CMD: chmod -R 777 filename

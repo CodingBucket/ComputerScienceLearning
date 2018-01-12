@@ -1,0 +1,6 @@
+
+** Grails Information **
+
+  ## Mysql connection in grails 3
+  
+      1. http://stackoverflow.com/questions/31764922/how-to-connect-grails-3-0-to-my-local-mysql-database 

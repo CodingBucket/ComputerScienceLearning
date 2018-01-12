@@ -1,0 +1,38 @@
+---------------------------------
+ $ git
+---------------------------------
+ Shows information about git
+
+---------------------------------
+ $ git config
+---------------------------------
+ Shows git config information
+ 
+---------------------------------
+ $ git config --list
+---------------------------------
+ Shows git config lists
+ 
+---------------------------------
+ $ git config --global user.name "hasan"
+---------------------------------
+ Configure the global username
+ 
+---------------------------------
+ $ git config --global user.email "hasan@gmail.com"
+---------------------------------
+ Configure the global email address
+ 
+---------------------------------
+ $ git log
+---------------------------------
+ Shows git log
+ 
+---------------------------------
+ $ git log help
+---------------------------------
+ Shows git log help.
+ 
+---------------------------------
+ $ git diff
+---------------------------------

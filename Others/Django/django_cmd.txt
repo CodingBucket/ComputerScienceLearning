@@ -1,0 +1,26 @@
+# Check Python version
+	CMD: python --version
+
+# Check easy_insatall version
+	CMD: easy_install --version
+
+# Install Django 
+
+	CMD: easy_install django==1.9
+
+# Check Django version
+
+	CMD: django-admin --version
+
+# Django project create
+
+	CMD: django-admin startproject website
+
+# Run Django project
+	
+	CMD: cd website
+	CMD: python manage.py runserver
+
+# Start new app
+
+	CMD: python manage.py startapp music
