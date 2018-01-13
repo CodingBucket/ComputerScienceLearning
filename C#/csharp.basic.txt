@@ -17,4 +17,10 @@
   Static constructor is called only once, no metter how many instances you create.
   Static constructor is called before the instance constructor.
   
+# Pillars of Object Oriented Programming:
+  1. Inheritance.
+  2. Encapsulation.
+  3. Abstraction.
+  4. Polymorphism.
+  
   
