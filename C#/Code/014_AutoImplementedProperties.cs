@@ -38,7 +38,14 @@ public class Program
     }
 }
 
-
+/*
+    # Auto Implemented Properties:
+    If there is no editional logic in the property accessors, then we can make use of
+    auto-implemneted properties introduced in C# 3.0
+    Auto-impplemented properties reduce the amount of code that we have to write.
+    When you use auto-implemented properties, the complier creates a private, anonymous field
+    that can only accessed through the property's get and set accessors.
+*/
 
 
 
