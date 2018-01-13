@@ -23,4 +23,20 @@
   3. Abstraction.
   4. Polymorphism.
   
+# Polymorphism:
+  Polymorphism allows you to invoke derived class methods through a base class reference during runtime.
+  In the base class the method is declared as virtual, and in the derived class we override the same method.
+  The virtual keyword indicates, the method can be overridden in any derived class.
   
+# Method Overriding:
+  In method overriding a base class reference variable pointing to a child class object,
+  will invoke the overridden method in the child class.
+  It is also called Polymorphism.
+
+# Method Hidding:
+  In method overriding a base class reference variable pointing to a child class object,
+  will invoke the hidden  method in the base class.
+
+
+
+
