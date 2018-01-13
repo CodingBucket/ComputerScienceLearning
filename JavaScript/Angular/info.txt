@@ -1,7 +1,0 @@
-------------------
- # ng directives
-------------------
-	ng-app
-	ng-init
-	ng-if
-	ng-bind
