@@ -12,4 +12,9 @@
   overflow exception. Hence, in this case an explicit conversion is required. For explicit
   conversion we can use cast operator or the convert class in c#.
   
+# Static Constructor:
+  Static constructor are used to initialize static fields in a class. 
+  Static constructor is called only once, no metter how many instances you create.
+  Static constructor is called before the instance constructor.
+  
   
