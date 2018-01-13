@@ -36,6 +36,37 @@
 # Method Hidding:
   In method overriding a base class reference variable pointing to a child class object,
   will invoke the hidden  method in the base class.
+  
+# Method Overloadnig:
+  Method overloading allows a class to have multiple methods with the same name, 
+  but differnet types and numbers of paramenter. It is not possiable to overload a function
+  based on the return type of a method.	
+  
+# Auto Implemented Properties:
+  If there is no editional logic in the property accessors, then we can make use of auto-implemneted properties introduced in C# 3.0
+  Auto-impplemented properties reduce the amount of code that we have to write. When you use auto-implemented properties, 
+  the complier creates a private, anonymous field that can only accessed through the property's get and set accessors.
+  
+# Structs:
+  Structs are very similar to classes. We use struct keyword to create a struct.
+  Just like classes structs can have fields, properties, constructors and methods.
+  
+# Class Vs Struct:
+  > A struct is a value type where as a class is a reference typess.
+  > Structs are stored on stack, where as classes are strored on heap.
+  > Value type are destroyed immediately after the scope is lost, where as for reference types only
+  > the reference variable is destroyed after the scope is lost. The object is later destroyed by garbage
+    collector.
+  > When you copy a struct into another struct, a new copy of that struct gets created and modifications on one 
+    struct will not affect the values contained by the other struct.
+  > When you copy a class into another class, we only get a copy of the reference variable. Both the reference
+    variables point to the same object on the heap. So, operations on one variable will affect the values 
+    contained by the other reference variable.
+
+
+
+
+
 
 
 
