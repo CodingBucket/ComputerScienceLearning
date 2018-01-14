@@ -62,6 +62,12 @@
   > When you copy a class into another class, we only get a copy of the reference variable. Both the reference
     variables point to the same object on the heap. So, operations on one variable will affect the values 
     contained by the other reference variable.
+  > Structs cant have destructor, but classes can have destructor.
+  > Structs cannot have explicit parameter less constructor where as a class can.
+  > Struct cant inherit from another class where as a class can,Both structs and class
+    can inherit from an interface.
+  > Example of structs in the .NET Framework - int (System.Int32), double (System.double) etc.
+  > A class or a struct cannot inherit from another class from being struct. Structs are sealed types.
 
 
 
