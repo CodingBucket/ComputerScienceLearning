@@ -52,22 +52,30 @@
   Just like classes structs can have fields, properties, constructors and methods.
   
 # Class Vs Struct:
-  > A struct is a value type where as a class is a reference typess.
-  > Structs are stored on stack, where as classes are strored on heap.
-  > Value type are destroyed immediately after the scope is lost, where as for reference types only
-  > the reference variable is destroyed after the scope is lost. The object is later destroyed by garbage
-    collector.
-  > When you copy a struct into another struct, a new copy of that struct gets created and modifications on one 
-    struct will not affect the values contained by the other struct.
-  > When you copy a class into another class, we only get a copy of the reference variable. Both the reference
-    variables point to the same object on the heap. So, operations on one variable will affect the values 
-    contained by the other reference variable.
-  > Structs cant have destructor, but classes can have destructor.
-  > Structs cannot have explicit parameter less constructor where as a class can.
-  > Struct cant inherit from another class where as a class can,Both structs and class
-    can inherit from an interface.
-  > Example of structs in the .NET Framework - int (System.Int32), double (System.double) etc.
-  > A class or a struct cannot inherit from another class from being struct. Structs are sealed types.
+  => A struct is a value type where as a class is a reference typess.
+  => Structs are stored on stack, where as classes are strored on heap.
+  => Value type are destroyed immediately after the scope is lost, where as for reference types only
+  => the reference variable is destroyed after the scope is lost. The object is later destroyed by garbage
+     collector.
+  => When you copy a struct into another struct, a new copy of that struct gets created and modifications on one 
+     struct will not affect the values contained by the other struct.
+  => When you copy a class into another class, we only get a copy of the reference variable. Both the reference
+     variables point to the same object on the heap. So, operations on one variable will affect the values 
+     contained by the other reference variable.
+  => Structs cant have destructor, but classes can have destructor.
+  => Structs cannot have explicit parameter less constructor where as a class can.
+  => Struct cant inherit from another class where as a class can,Both structs and class
+     can inherit from an interface.
+  => Example of structs in the .NET Framework - int (System.Int32), double (System.double) etc.
+  => A class or a struct cannot inherit from another class from being struct. Structs are sealed types.
+  
+# Interface:
+  => We create interface using interface keyword. Just like classes interfaces also contains properties,
+     methods, delegates or event, but only declarations and no implementations.
+  => Interface members are public by default, and they dont allow explicit access modifiers.
+  => If a strucs or a class inherits from a interface, it must provide implementation for all interface methods.
+  => We can not create an instance of an interface, but an interface reference variable can point to a derived
+     class object.
 
 
 
