@@ -1,3 +1,4 @@
 # Web:
-  http://www.htmldog.com/guides/javascript/advanced/
-  https://docs.microsoft.com/en-us/scripting/javascript/advanced/advanced-javascript
+  => https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  => http://www.htmldog.com/guides/javascript/advanced/
+  => https://docs.microsoft.com/en-us/scripting/javascript/advanced/advanced-javascript
