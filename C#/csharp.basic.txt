@@ -76,6 +76,15 @@
   => If a strucs or a class inherits from a interface, it must provide implementation for all interface methods.
   => We can not create an instance of an interface, but an interface reference variable can point to a derived
      class object.
+     
+# Abstract Class:
+  => The abstract keyword is used to create abstract classes.
+  => An abstract class is incomplete and hence cannot be instantiated.
+  => An abstract class can only be used as base class.
+  => An abstract class cannot be sealed.
+  => An abstract class may contain abstract members, but not mandatory.
+  => A non-abstract class derived from an abstract class must provide implementations for 
+     inherided abstract members.
 
 
 
