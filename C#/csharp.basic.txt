@@ -101,6 +101,7 @@
   3. If a method in D call a method defined in A(and does not override the method), and B and C
      have overridden that method that differently, then from which class does it inherit: B, or C?
   => This ambiguity is called as Diamond problem.
-
-
+  
+# Delegate:
+  => A delegate is a type safe function pointer.
 
