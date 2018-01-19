@@ -103,5 +103,12 @@
   => This ambiguity is called as Diamond problem.
   
 # Delegate:
-  => A delegate is a type safe function pointer.
+  => A delegate is a type safe function pointer. It holds a reference of a function.
+  => The signature of the delegate must match the signature of the function, the delegate
+     points to, otherwise you get a complier error.This is the reason delegates are called as type
+     safe function pointers.
+  => A delegate is similar to a class.You can create an instance of it,and when you do so,you pass
+     the function name as a parameter to the delegate constructor, and it is the function the delegate
+     will call.
+  => Delegates syntax look very much similar to a method with a delegate keyword.
 
