@@ -3,6 +3,7 @@
 
 # Online Books:
   1. https://pybook.subeen.com/
+  2. http://goalkicker.com/PythonBook/
   
 # PDF books:
   1. Learn python the hard way.
