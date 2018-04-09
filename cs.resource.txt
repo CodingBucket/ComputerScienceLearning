@@ -1,0 +1,44 @@
+=========================
+ # Data Structure
+=========================
+
+  => https://www.geeksforgeeks.org/data-structures/
+  
+=========================
+ # Algorithom
+=========================
+  
+  => https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+  
+  => (Geeks, DS & Algorithom) https://www.youtube.com/watch?v=AfxHGNRtFac&list=PLqM7alHXFySE_Pxx_HsUSZGwiLpv9ziWA
+  => (Geeks) https://www.youtube.com/watch?v=xtfj4-r_Ahs&list=PLqM7alHXFySEQDk2MDfbwEdjd2svVJH9p
+  
+=========================
+ # C++
+=========================
+  
+  => https://www.geeksforgeeks.org/c-plus-plus/
+  
+  => (Geeks) https://www.youtube.com/watch?v=dsbj7XpHOcE&list=PLqM7alHXFySGg6GSRmE2INI4k8fPH5qVB
+
+=========================
+ # Python
+=========================
+
+  => http://www.studytonight.com/python/
+  => https://pybook.subeen.com/
+  => http://goalkicker.com/PythonBook/
+  
+  => (subin) https://www.youtube.com/watch?v=Mn9p5qRk_xU&list=PLym69wpbTIIGXpzNtfg5rTKY638oVnEby
+  => (kunal) https://www.youtube.com/watch?v=X0FoelOIZM0&list=PLAwxTw4SYaPnYajEbZvqtcVWQ6XGhvtOW
+  => (newboston) https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
+  => (Geeks) https://www.youtube.com/watch?v=OLPbd-7Pp_8&list=PLqM7alHXFySHLJWu_Euw7pdI4ec1hHTLI
+  
+=========================
+ # Interview Question
+=========================
+  
+  => (Google) https://www.youtube.com/watch?v=amdKmQlATmQ&list=PLqM7alHXFySE71A2bQdYp37vYr0aReknt
+  => (Microsoft) https://www.youtube.com/watch?v=T4bY72lCQac&list=PLqM7alHXFySGPTfjt1BlSpX96dYQIaYIq
+  
+  
