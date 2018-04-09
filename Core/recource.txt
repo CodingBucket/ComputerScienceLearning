@@ -1,1 +1,3 @@
-1. http://goalkicker.com/
+=> http://goalkicker.com/
+
+=> https://www.geeksforgeeks.org/ (DS, Algorithom)
