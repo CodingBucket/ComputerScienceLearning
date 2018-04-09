@@ -35,6 +35,24 @@
   => (Geeks) https://www.youtube.com/watch?v=OLPbd-7Pp_8&list=PLqM7alHXFySHLJWu_Euw7pdI4ec1hHTLI
   
 =========================
+ # C#
+=========================
+  
+  => https://www.linkedin.com/learning/search?keywords=C%23
+  => https://www.linkedin.com/learning/learning-c-sharp-algorithms/welcome (C# Algorithms)
+  
+=========================
+ # JavaScript
+=========================
+
+  => https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  => http://www.htmldog.com/guides/javascript/advanced/
+  => https://docs.microsoft.com/en-us/scripting/javascript/advanced/advanced-javascript
+  
+  => (mosh) https://www.youtube.com/watch?v=PFmuCDHHpwk
+  => (hasin) https://www.youtube.com/watch?v=y0uT4izH8F0&list=PLoR56CteKZnAdVtfTbAbUqT2thG4S-Anv
+  
+=========================
  # Interview Question
 =========================
   
