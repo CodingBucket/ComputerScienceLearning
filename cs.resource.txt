@@ -49,8 +49,9 @@
   => http://www.htmldog.com/guides/javascript/advanced/
   => https://docs.microsoft.com/en-us/scripting/javascript/advanced/advanced-javascript
   
-  => (mosh) https://www.youtube.com/watch?v=PFmuCDHHpwk
+  => (mosh)  https://www.youtube.com/watch?v=PFmuCDHHpwk
   => (hasin) https://www.youtube.com/watch?v=y0uT4izH8F0&list=PLoR56CteKZnAdVtfTbAbUqT2thG4S-Anv
+  => (vuejs) https://www.youtube.com/watch?v=6HRPbh5fCVA
   
 =========================
  # Interview Question
