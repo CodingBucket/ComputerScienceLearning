@@ -18,8 +18,11 @@
 =========================
   
   => https://www.geeksforgeeks.org/c-plus-plus/
+  => https://www.javatpoint.com/cpp-tutorial
+  => https://www.tutorialspoint.com/cplusplus/index.htm
   
-  => (Geeks) https://www.youtube.com/watch?v=dsbj7XpHOcE&list=PLqM7alHXFySGg6GSRmE2INI4k8fPH5qVB
+  => (geeks) https://www.youtube.com/watch?v=dsbj7XpHOcE&list=PLqM7alHXFySGg6GSRmE2INI4k8fPH5qVB
+  => (learninglad) https://www.youtube.com/watch?v=3fwKlU9AwSY&list=PLfVsf4Bjg79Cu5MYkyJ-u4SyQmMhFeC1C
 
 =========================
  # Python
