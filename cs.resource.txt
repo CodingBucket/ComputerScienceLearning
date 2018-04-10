@@ -51,10 +51,17 @@
   => https://developer.mozilla.org/en-US/docs/Web/JavaScript
   => http://www.htmldog.com/guides/javascript/advanced/
   => https://docs.microsoft.com/en-us/scripting/javascript/advanced/advanced-javascript
+  => https://programmingwithmosh.com/javascript/essential-modern-javascript-features/
   
   => (mosh)  https://www.youtube.com/watch?v=PFmuCDHHpwk
   => (hasin) https://www.youtube.com/watch?v=y0uT4izH8F0&list=PLoR56CteKZnAdVtfTbAbUqT2thG4S-Anv
   => (vuejs) https://www.youtube.com/watch?v=6HRPbh5fCVA
+  
+=========================
+ # Django
+=========================  
+  
+  => https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
   
 =========================
  # Interview Question
@@ -63,4 +70,11 @@
   => (Google) https://www.youtube.com/watch?v=amdKmQlATmQ&list=PLqM7alHXFySE71A2bQdYp37vYr0aReknt
   => (Microsoft) https://www.youtube.com/watch?v=T4bY72lCQac&list=PLqM7alHXFySGPTfjt1BlSpX96dYQIaYIq
   
+=========================
+ # English
+=========================
+
+ => (ielts 77) https://www.youtube.com/watch?v=ypBK-7ypeOk&list=PLNYdg3vjQT6OVBzH9YYo99874ewOXKPYA
+ => (english phrases) https://www.youtube.com/watch?v=bj5btO2nvt8
+ => (vocabulary) https://www.youtube.com/watch?v=g-O7bZhdYJA
   
