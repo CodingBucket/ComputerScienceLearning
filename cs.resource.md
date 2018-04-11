@@ -9,7 +9,7 @@
   
   https://www.geeksforgeeks.org/fundamentals-of-algorithms/
   
-  [Geeks, DS & Algorithom] (https://www.youtube.com/watch?v=AfxHGNRtFac&list=PLqM7alHXFySE_Pxx_HsUSZGwiLpv9ziWA)
+  [Geeks, DS & Algorithom](https://www.youtube.com/watch?v=AfxHGNRtFac&list=PLqM7alHXFySE_Pxx_HsUSZGwiLpv9ziWA)
   [Geeks] (https://www.youtube.com/watch?v=xtfj4-r_Ahs&list=PLqM7alHXFySEQDk2MDfbwEdjd2svVJH9p)
   
  ## C++
