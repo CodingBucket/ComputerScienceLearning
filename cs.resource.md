@@ -1,21 +1,20 @@
 
- => https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
+ https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
 
+ ## Data Structure
 
- # Data Structure
-
-  => https://www.geeksforgeeks.org/data-structures/
+  https://www.geeksforgeeks.org/data-structures/
   
- # Algorithom
+ ## Algorithom
   
-  => https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+  https://www.geeksforgeeks.org/fundamentals-of-algorithms/
   
-  => (Geeks, DS & Algorithom) https://www.youtube.com/watch?v=AfxHGNRtFac&list=PLqM7alHXFySE_Pxx_HsUSZGwiLpv9ziWA
-  => (Geeks) https://www.youtube.com/watch?v=xtfj4-r_Ahs&list=PLqM7alHXFySEQDk2MDfbwEdjd2svVJH9p
+  [Geeks, DS & Algorithom] (https://www.youtube.com/watch?v=AfxHGNRtFac&list=PLqM7alHXFySE_Pxx_HsUSZGwiLpv9ziWA)
+  [Geeks] (https://www.youtube.com/watch?v=xtfj4-r_Ahs&list=PLqM7alHXFySEQDk2MDfbwEdjd2svVJH9p)
   
- # C++
+ ## C++
   
-  => https://www.geeksforgeeks.org/c-plus-plus/
+  https://www.geeksforgeeks.org/c-plus-plus/
   => https://www.javatpoint.com/cpp-tutorial
   => https://www.tutorialspoint.com/cplusplus/index.htm
   
