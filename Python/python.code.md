@@ -1,4 +1,4 @@
-````
+````python
   n_list = []
   first = True
   while True:
