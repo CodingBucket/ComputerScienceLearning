@@ -35,6 +35,7 @@ namespace ConsoleApp
             OnVideoEncoded();
         }
 
+        // Event Publisher
         protected virtual void OnVideoEncoded()
         {
             VideoEncoded?.Invoke(this, EventArgs.Empty);
